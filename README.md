@@ -12,7 +12,7 @@ Bilal Muhammad Khan
 Aneeq Khatri 
 Ameen Alam 
 
-#HackathonJourney #Day1 #UIUX #WebDevelopment #Innovation”
+
 
 # Hackathon-3-Day-2
 🌟 Hackathon Day 2: The Technical Foundation is Complete! 🌟
@@ -27,9 +27,9 @@ Thrilled to share that I’ve successfully completed Day 2 of the UI/UX Hackatho
 
 4️⃣ Sanity Schemas Drafted: Structured content models to ensure data consistency and flexibility.
 
+
+
 # Hackathon-3-Day-3
-
-
 🌟 Hackathon Update: Day 3, Step 1 Complete! 🌟
 
 Excited to share that I’ve successfully completed Step 1 of my Hackathon journey on Day 3! 🚀
@@ -46,7 +46,7 @@ By featured products 🌟
 
 Now, I’m all set and super excited for Step 2: Fetching data from Sanity and dynamically displaying it in my project. 🖼️ Stay tuned for more updates!
 
-#Hackathon #WebDevelopment #SanityCMS #GROQ #FrontendDevelopment #ExcitedForMore 🚀
+
 
 
 
@@ -69,7 +69,6 @@ This step has been both challenging and exciting as I got to work hands-on with 
 
 Looking forward to the next phase of this hackathon challenge. Stay tuned for more updates! 💻🎨
 
-#HackathonJourney #WebDevelopment #SanityCMS #ReactJS #DynamicUI #LearningAndGrowing #CodingLife
 
 
 
@@ -88,7 +87,7 @@ This process replicates real-world practices, preparing me to handle diverse cli
 
 Looking forward to continuing my journey and tackling the next steps! Stay tuned for more updates. 💪
 
-#Hackathon #APIs #SanityCMS #DataMigration #Ecommerce #WebDevelopment #LearningJourney #FeaturedProducts #LatestProducts
+
 
 
 
